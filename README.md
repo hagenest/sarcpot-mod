@@ -1,3 +1,5 @@
+This is a fork, the original README is below:
+
 ![Untitled 02-26-2025 11-20-01](https://github.com/user-attachments/assets/73184fb8-9717-49c0-8a8e-0df7f8843fa5)
 # Sarcpot - A Balatro mod for the girls, gays and indie game fans!
 
